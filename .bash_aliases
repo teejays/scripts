@@ -1,0 +1,10 @@
+# Custom Aliases for GIT
+alias gs="git status"
+alias gcmp="git checkout master && git pull"
+alias gco="git checkout"
+alias gd="git diff"
+alias gc="git commit"
+alias ga="git add"
+alias gca="git add -A"
+alias gp="git push"
+alias gfomm="git fetch origin && git merge origin master"
